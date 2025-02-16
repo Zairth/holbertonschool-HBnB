@@ -35,7 +35,7 @@ The **Business Logic Layer** is the core of the system, where the main business 
 
 ### **Detailed Class Diagram for Business Logic Layer**
 
-![Detailed Class Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702011-t1.png)
+![Detailed Class Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702268-t1.png)
 
 ### **Class Descriptions**
 
