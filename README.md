@@ -72,7 +72,6 @@ The **Business Logic Layer** is the core of the system, where the main business 
 - **Attributes**:
   - `UUID4 id`: Unique identifier for amenities.
   - `String name`: The name of the amenity.
-  - `Boolean available`: Availability status.
   - `Date created_amnety`, `Date updated_amnety`: Date attributes for tracking the creation and update of amenities.
 - **Methods**:
   - `create()`, `update()`, `delete()`: Methods for managing amenities.
