@@ -35,7 +35,7 @@ The **Business Logic Layer** is the core of the system, where the main business 
 
 ### **Detailed Class Diagram for Business Logic Layer**
 
-![Detailed Class Diagram](https://image.noelshack.com/fichiers/2024/48/5/1732903736-new-flowchart.png)
+![Detailed Class Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702011-t1.png)
 
 ### **Class Descriptions**
 
@@ -87,7 +87,7 @@ In this section, we describe the flow of API calls between the user, the API, th
 
 #### **User Registration**
 
-![User Registration Sequence Diagram](https://image.noelshack.com/fichiers/2024/48/5/1732903736-new-flowchart.png)
+![User Registration Sequence Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702080-t2-user-registration.png)
 
 **Flow Explanation**:
 
@@ -99,7 +99,7 @@ In this section, we describe the flow of API calls between the user, the API, th
 
 #### **Place Creation**
 
-![Place Creation Sequence Diagram](https://image.noelshack.com/fichiers/2024/48/5/1732903736-new-flowchart.png)
+![Place Creation Sequence Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702106-t2-place-creation.png)
 
 **Flow Explanation**:
 
@@ -111,7 +111,7 @@ In this section, we describe the flow of API calls between the user, the API, th
 
 #### **Review Submission**
 
-![Review Submission Sequence Diagram](https://image.noelshack.com/fichiers/2024/48/5/1732903736-new-flowchart.png)
+![Review Submission Sequence Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702131-t2-review-submission.png)
 
 **Flow Explanation**:
 
@@ -123,7 +123,7 @@ In this section, we describe the flow of API calls between the user, the API, th
 
 #### **Fetching a List of Places**
 
-![Fetching Places Sequence Diagram](https://image.noelshack.com/fichiers/2024/48/5/1732903736-new-flowchart.png)
+![Fetching Places Sequence Diagram](https://image.noelshack.com/fichiers/2025/07/7/1739702151-t2-fetching-a-list-of-places.png)
 
 **Flow Explanation**:
 
